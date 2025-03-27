@@ -13,15 +13,15 @@ Create ice dripping frozen text effects with this GIMP plugin
 
 **Windows**
 
- C:\Users\(USERNAME)\AppData\Local\gegl-0.4\plug-ins
+ `C:\Users\(USERNAME)\AppData\Local\gegl-0.4\plug-ins`
 
  **Linux**
 
-~/.local/share/gegl-0.4/plug-ins
+`~/.local/share/gegl-0.4/plug-ins`
 
  **Linux (Flatpak includes Chromebook)**
 
-~/.var/app/org.gimp.GIMP/data/gegl-0.4/plug-ins
+`~/.var/app/org.gimp.GIMP/data/gegl-0.4/plug-ins`
 
 Then Restart Gimp and go to Filters>Text Styling and look for "Frozen Gel" or just search for it with /
 
